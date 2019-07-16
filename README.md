@@ -29,3 +29,11 @@ HERE ARE FEW THINGS PANDAS CAN DO
 * Filter, sort and Groupby
 * Data Cleaning
 * Join/Combine..
+
+**DEPANDANCIES**
+NumPy: 1.13.3 or higher
+Python: 3.6 or Higher
+
+**Downlads**
+GIT -https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+Python -https://www.python.org/downloads/
