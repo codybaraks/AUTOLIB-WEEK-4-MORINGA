@@ -14,12 +14,12 @@ Pandas is a NumFOCUS sponsored project. This will help ensure the success of dev
 
 **Where to Begin**
 
-'''
+```
 
 pip install numpy
 pip install pandas
 
-'''
+```
 
 HERE ARE FEW THINGS PANDAS CAN DO
 -------------------------------------
