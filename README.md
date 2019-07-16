@@ -13,6 +13,7 @@ Pandas stands for “Python Data Analysis Library”,pandas is an open source, B
 Pandas is a NumFOCUS sponsored project. This will help ensure the success of development of pandas as a world-class open-source project, and makes it possible to donate to the project.
 
 **Where to Begin**
+
 '''
 
 pip install numpy
