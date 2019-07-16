@@ -1,5 +1,7 @@
 # PANDAS
+-------
 DELIVERABLES
+---------
 Github Repository
 SQL Notebook or Python Notebook
 Data Report (Google Docs Document) 
@@ -16,6 +18,7 @@ pip install pandas
 ...
 
 HERE ARE FEW THINGS PANDAS CAN DO
+-------------------------------------
 *Loading and Saving Data with Pandas
 *View and Inspect Data
 *Selection of Data
